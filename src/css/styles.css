@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-style: 'Roboto'
 }
 
 header {
@@ -19,6 +20,3 @@ header input {
     margin: 20px 0;
 }
 
-.news_item {
-    background: red;
-}
